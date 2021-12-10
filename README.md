@@ -17,4 +17,18 @@ In part one, the weathr database was created considering the following data:
 - percent cloudiness
 - wind speed
 - current weather description
- d
+
+
+
+WeatherPy Vacation
+![WeatherPy-vacation_map png](https://user-images.githubusercontent.com/90135381/145604157-552a11ca-1a9f-4afa-8fc4-a960b5796edc.png)
+
+
+
+WeatherPy Travel map
+<img width="1440" alt="WeatherPy_travel_map copy" src="https://user-images.githubusercontent.com/90135381/145601494-55c1b1dc-4820-4565-8ca8-4027bfdbeb14.png">
+
+ 
+ 
+WeatherPy Travel Map with Markers 
+<img width="1440" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/90135381/145601426-c0c32d58-6358-4331-8261-778e036f85b2.png">
