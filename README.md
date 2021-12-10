@@ -18,8 +18,9 @@ In part one, the weathr database was created considering the following data:
 - wind speed
 - current weather description
 
-Weather Data
+**Weather Data**
 
+The figures below (figures 1 to 4) reveal the weather parameters of max temp, humidity, cloudiness and wind speed per latitudes for various cities. This was completed to analyze different weather patterns in various places around the world, in varying hemispheres.
 ![Fig1](https://user-images.githubusercontent.com/90135381/145604400-9c87b7b8-5bdd-4421-ac4c-e2377c9414d1.png)                
         Figure 1: City Latitude and Max temp
 
@@ -45,7 +46,7 @@ Weather Data
 
 ![Fig4](https://user-images.githubusercontent.com/90135381/145604490-9667112c-71c7-4925-b86b-01dca3a20f7f.png)
         
-        Figure 4: City Latitude and Wond Speed
+        Figure 4: City Latitude and Wind Speed
 
 
 
