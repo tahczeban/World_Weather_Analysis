@@ -53,12 +53,16 @@ The figures below (figures 1 to 4) reveal the weather parameters of max temp, hu
 
 **Step 2: Create a Customer Travel Destinations Map**
 
+In figure 5, a destinations map with markers was created in order to present the potential cities for preferred travel destinations. 
+
 ![WeatherPy-vacation_map png](https://user-images.githubusercontent.com/90135381/145604157-552a11ca-1a9f-4afa-8fc4-a960b5796edc.png)
         
         Figure 5: WeatherPy Vacation (Search)
 
 
 **Step 3: Create Travel Itinerary Maps**
+
+In figure 6, a travel map was created fpr sample destinations. Because Jack and his Beta tester friend vhave friens and family in California
 
 <img width="1440" alt="WeatherPy_travel_map copy" src="https://user-images.githubusercontent.com/90135381/145601494-55c1b1dc-4820-4565-8ca8-4027bfdbeb14.png">
 
