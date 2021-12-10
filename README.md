@@ -18,7 +18,7 @@ In part one, the weathr database was created considering the following data:
 - wind speed
 - current weather description
 
-**Weather Data**
+**Step 1: Weather Data**
 
 The figures below (figures 1 to 4) reveal the weather parameters of max temp, humidity, cloudiness and wind speed per latitudes for various cities. This was completed to analyze different weather patterns in various places around the world, in varying hemispheres.
 ![Fig1](https://user-images.githubusercontent.com/90135381/145604400-9c87b7b8-5bdd-4421-ac4c-e2377c9414d1.png)                
@@ -51,14 +51,14 @@ The figures below (figures 1 to 4) reveal the weather parameters of max temp, hu
 
 
 
-
+**Step 2: Create a Customer Travel Destinations Map**
 
 ![WeatherPy-vacation_map png](https://user-images.githubusercontent.com/90135381/145604157-552a11ca-1a9f-4afa-8fc4-a960b5796edc.png)
         
         Figure 5: WeatherPy Vacation (Search)
 
 
-
+**Step 3: Create Travel Itinerary Maps**
 
 <img width="1440" alt="WeatherPy_travel_map copy" src="https://user-images.githubusercontent.com/90135381/145601494-55c1b1dc-4820-4565-8ca8-4027bfdbeb14.png">
 
