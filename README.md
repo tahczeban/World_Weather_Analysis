@@ -72,6 +72,5 @@ In figure 6, a travel map was created fpr sample destinations. Because Jack and 
  
 Figure 7 (below), markerts were populated to include hotel names, the current weather conditions and max temp for their preferred cities in the USA. 
 
-<img width="1440" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/90135381/145601426-c0c32d58-6358-4331-8261-778e036f85b2.png">
 
         Figure 7: WeatherPy Travel Map with Markers 
