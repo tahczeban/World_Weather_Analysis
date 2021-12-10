@@ -62,7 +62,7 @@ In figure 5, a destinations map with markers was created in order to present the
 
 **Step 3: Create Travel Itinerary Maps**
 
-In figure 6, a travel map was created fpr sample destinations. Because Jack and his Beta tester friend vhave friens and family in California
+In figure 6, a travel map was created fpr sample destinations. Because Jack and his Beta tester friend vhave friens and family in Arizona, California and Mexico, the cities chosen wereBuckeye, Sonoita, Providencia and lastly, for relaxation, Cabo San Lucas. A travel itinerary  with weather data per city was included in the map. 
 
 <img width="1440" alt="WeatherPy_travel_map copy" src="https://user-images.githubusercontent.com/90135381/145601494-55c1b1dc-4820-4565-8ca8-4027bfdbeb14.png">
 
@@ -70,7 +70,7 @@ In figure 6, a travel map was created fpr sample destinations. Because Jack and 
  
  
  
- 
+Figure 7 (below), markerts were populated to include hotel names, the current weather conditions and max temp for their preferred cities in the USA. 
 
 <img width="1440" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/90135381/145601426-c0c32d58-6358-4331-8261-778e036f85b2.png">
 
