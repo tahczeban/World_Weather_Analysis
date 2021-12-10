@@ -17,3 +17,4 @@ In part one, the weathr database was created considering the following data:
 - percent cloudiness
 - wind speed
 - current weather description
+ d
