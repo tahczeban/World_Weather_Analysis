@@ -50,7 +50,9 @@ The figures below (figures 1 to 4) reveal the weather parameters of max temp, hu
         Figure 4: City Latitude and Wind Speed
 
 
+***SUMMARY***
 
+After the data was analyzed, an itinerary with descriptive information was created, as described below.
 
 **Step 2: Create a Customer Travel Destinations Map**
 
