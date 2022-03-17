@@ -1,13 +1,13 @@
 # World_Weather_Analysis
 
+![image](https://user-images.githubusercontent.com/90135381/158725145-1c12f4e2-d622-4c17-8e7c-9c96a8a33131.png)
 
-![image](https://user-images.githubusercontent.com/90135381/158723459-10b814f5-211c-43d3-9de6-c749e246e331.jpeg)
 
 ________________
 ***RESOURCES***
 
 Jupyter notebook, Numpy, Pandas Library, CitiPy, matplotlib library, Python requests, Google maps API's, SciPy and JSON Traversals
-IMAGE: obtained from: https://pngtree.com/freepng/global-travel-material_529514.html
+IMAGE: obtained from: https://www.pngwing.com/en/free-png-bleiq
 
 _______________
 ***OVERVIEW***
