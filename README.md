@@ -1,13 +1,20 @@
 # World_Weather_Analysis
 
+
+![image](https://user-images.githubusercontent.com/90135381/158723459-10b814f5-211c-43d3-9de6-c749e246e331.jpeg)
+
+________________
 ***RESOURCES***
 
 Jupyter notebook, Numpy, Pandas Library, CitiPy, matplotlib library, Python requests, Google maps API's, SciPy and JSON Traversals
+IMAGE: obtained from: https://pngtree.com/freepng/global-travel-material_529514.html
 
+_______________
 ***OVERVIEW***
 
 The purpose of this assignment was to perform API retrieval of metadata, analyze and present visualizations for Jack's PlanMyTrip app and some Beta testers. The first part was the retreival of weather data. The second entailed the implementation of input statements to filter the weather data for four selected, preferred cities. In order to complete the travel itinerary, a travel route was created, as well as a marker layer map for additional information.
 
+______________
 ***RESULTS***
 
 In part one, the weather database was created considering the following data:
@@ -49,7 +56,7 @@ The figures below (figures 1 to 4) reveal the weather parameters of max temp, hu
         
         Figure 4: City Latitude and Wind Speed
 
-
+______________
 ***SUMMARY***
 
 After the data was analyzed, an itinerary with descriptive information was created, as described below.
